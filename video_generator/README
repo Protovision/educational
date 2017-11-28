@@ -1,0 +1,4 @@
+Demonstrates image loading and video generation using process I/O with ffmpeg.
+Part of an assignment made by Dr. Turner for his Fall 2017 CSE 202 course at CSUSB.
+
+To compile, run the make command.
